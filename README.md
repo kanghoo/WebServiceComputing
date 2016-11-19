@@ -1,6 +1,23 @@
 # WebServiceComputing
 
-웹서비스컴퓨팅
+## 1. 환경
+
+### 1.1 Anaconda 2.7
+
+- https://www.continuum.io/downloads#windows
+
+### 1.2 OpenCV 2.4.11
+
+- Anaconda Prompt에서 실행
+- conda install -c menpo opencv=2.4.11
+
+### 1.3 Pycharm 설치
+
+- https://www.jetbrains.com/pycharm-edu/download/
+
+### 1.4 인터프리터 확인
+
+- Pycharm을 이용하여 프로젝트를 생성할 때 인터프리터를 확인하기
 
 ## 1. FaceDetection-ex01
 
